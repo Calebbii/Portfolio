@@ -16,7 +16,7 @@ This is an application that allows a user to post a project he/she has created a
 * virtual environment
 * pip 
 ### Clone the Repo 
-* git clone https://github.com/Calebbii/Project-Awwards.git
+* git clone 
 * Initialize git and add the remote repository
 * git init
 * git remote add origin <your-repository-url>
@@ -43,4 +43,4 @@ python3.9 manager.py tests
 * HTML
 * CSS
 ### License
-[MIT Lisence]((https://github.com/Calebbii/Portfolio/blob/master/LICENSE)) Copyright (c) 2023 Calebbii.
+[MIT Lisence](https://github.com/Calebbii/Portfolio/blob/master/LICENSE) Copyright (c) 2023 Calebbii.
