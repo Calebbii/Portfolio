@@ -16,7 +16,7 @@ This is an application that allows a user to post a project he/she has created a
 * virtual environment
 * pip 
 ### Clone the Repo 
-* git clone 
+* git clone https://github.com/Calebbii/Portfolio
 * Initialize git and add the remote repository
 * git init
 * git remote add origin <your-repository-url>
