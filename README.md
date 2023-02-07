@@ -1,10 +1,8 @@
 # Portfolio
-https://biiportfolio.herokuapp.com/
 
 ## Author
 Caleb bii.
-### Description
-This is an application that allows a user to post a project he/she has created and get it reviewed by his/her peers.
+
 ### Setup and installations
 * Clone Project to your machine
 * Activate a virtual environment on terminal: source virtual/bin/activate
