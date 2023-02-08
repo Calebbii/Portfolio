@@ -26,7 +26,7 @@ Caleb bii.
 ### Run The App 
 * python3.9 manage.py check
 * python manage.py makemigrations news
-* python3.9 manage.py sqlmigrate news 0001
+* python3.9 manage.py sqlmigrate portfolio 0001
 * python3.9 manage.py migrate
 * python3.9 manage.py runserver 
 * Open localhost:5000
